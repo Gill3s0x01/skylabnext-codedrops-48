@@ -75,7 +75,7 @@ Nesse projeto tive como principal objetivo criar interface de autenticação da 
   $ yarn
 
   # Rodar a aplicação:
-  $ yarn start
+  $ yarn dev
 ```
 
 Feito com 💜 por [Lorison Gilles](https://github.com/Gilles30) 🖖🏻👾☕
